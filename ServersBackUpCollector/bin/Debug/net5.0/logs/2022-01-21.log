@@ -1,0 +1,13 @@
+2022-01-21 12:46:32.0607 ERROR Не удалось прочитать в конфиге параметр ShowProcess
+2022-01-21 12:46:32.1179 ERROR Не удалось прочитать в конфиге параметр ServerCount
+2022-01-21 12:46:49.3589 ERROR Не удалось распознать как IP адрес параметр: s12=192.168.316.22
+2022-01-21 12:46:49.4388 ERROR Не удалось распознать как IP адрес параметр: s13=192.168.16.23s
+2022-01-21 16:06:41.5652 ERROR Ошибка: System.IO.IOException: Не найден сетевой путь. : '\\192.168.16.11\SharedFiles'
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String path, Boolean ignoreNotFound)
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerator`1..ctor(String directory, Boolean isNormalized, EnumerationOptions options)
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserDirectories(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.Directory.GetDirectories(String path, String searchPattern)
+   at ServersBackUpCollector.Program.Main(String[] args) in C:\Git\ServersBackUpCollector\ServersBackUpCollector\Program.cs:line 113

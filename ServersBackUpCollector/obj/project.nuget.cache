@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8exoVdmO8M8zD2yZvboizMKr/OYlhBxS8x42PZuGF1jTlo2jJVDTFqF07kn9jePIfyyzH4KqCRgRePNAoUU2Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\ServersBackUpCollector\\ServersBackUpCollector\\ServersBackUpCollector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mesilin\\.nuget\\packages\\nlog\\4.7.13\\nlog.4.7.13.nupkg.sha512"
+  ],
+  "logs": []
+}

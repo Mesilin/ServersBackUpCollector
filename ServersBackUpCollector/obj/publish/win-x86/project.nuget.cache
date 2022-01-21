@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JEHonLBl7lxl84oJLrudeGDbe0s8SRzAtnhpu1CBpfa3ZgoXrZLir2flGNS7RArWTaKnuxK+tSoUAimoKgH8RA==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\ServersBackUpCollector\\ServersBackUpCollector\\ServersBackUpCollector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mesilin\\.nuget\\packages\\nlog\\4.7.13\\nlog.4.7.13.nupkg.sha512",
+    "C:\\Users\\mesilin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.13\\microsoft.netcore.app.runtime.win-x86.5.0.13.nupkg.sha512",
+    "C:\\Users\\mesilin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.13\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.13.nupkg.sha512",
+    "C:\\Users\\mesilin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.13\\microsoft.aspnetcore.app.runtime.win-x86.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
